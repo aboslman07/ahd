@@ -1,0 +1,78 @@
+.body1{
+ 
+    background-image: url('img/frist.png') ;
+    margin: 0px;;
+    background-size: 100%;
+    
+}
+.body2{
+ 
+    background-image: url('img/sec.png') ;
+    margin: 0px;;
+    background-size: 100%;
+    
+}
+.pos_t{
+    position: relative;
+    left: 350px;
+}
+.pos_img{
+    position: relative;
+    bottom: 130px;
+    left: 40px;
+}
+hr.dashed {
+    border-top: 3px dashed rgb(17, 17, 17);
+    margin: -100px;
+}
+table{
+    position: relative;
+    top: 110px;
+    border: 1px solid;
+    border-color: rgb(42, 165, 48);
+    width: 100%;
+}
+th,tr,td{
+    border: 1px solid;
+    border-color: rgb(42, 165, 48);
+}
+hr.dashed1 {
+    border-top: 3px dashed rgb(17, 17, 17);
+    position: relative;
+    top: 110px;
+    
+}
+.d1iv{
+   
+    height: 410px;
+    width: 820px;
+    border: 3px solid green;
+    margin: 1px;
+    position: relative;
+    top: 110px;
+    
+}
+.div1 {
+    width:400px;  
+    border: 3px solid green;
+   
+    position: absolute;
+    top:1px;
+  }
+  .div2 {
+    width:410px;  
+    border: 3px solid green;
+    
+    position: absolute;
+    left: 404px;
+    top: 1px;
+    
+  }
+button{
+background-color: red;
+position: relative;
+top :150px;
+text-align: center;
+left: 450px;
+
+}
